@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="str_rec_normal">按住 说话</string>
+    <string name="str_rec_recording">松开 结束</string>
+    <string name="str_rec_want_cancel">松开手指，取消发送</string>
+</resources>
